@@ -52,6 +52,7 @@
 ## 📹 相关视频
 
 - ✅[考研政治_徐涛](https://pan.baidu.com/s/1GxNotimP-GWaOWqz6oYcPQ#list/path=%2F)【an9v】
+- ✅[电影《决裂》赏析_乌鸦校尉](https://pan.baidu.com/s/1EGzvGvvDsABiCSuziq8DsA?pwd=3xk6) 【3xk6】
 
 # 其他
 
@@ -72,5 +73,4 @@
 - ✅ [关于我国人口转型的认识和应对之策_PDF](https://gitee.com/fromdark/marxist-learning-library/blob/master/book/关于我国人口转型的认识和应对之策.pdf)【非常好的文章，对中国目前的情况有一个宏观的了解】
 
 - ✅ [毛选的非常读法](https://zhuanlan.zhihu.com/p/414545266)：很多同志阅读毛选等马克思主义书籍，甚至包括日常生活中，专业学习中的书籍都不得要领，不会读书，这里推荐知乎一位网友的毛选阅读法
-
 

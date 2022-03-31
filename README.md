@@ -27,6 +27,7 @@
 - ✅ [共产党员网](https://link.zhihu.com/?target=http%3A//www.12371.cn/)
 - ✅ [旗帜网](https://link.zhihu.com/?target=http%3A//www.qizhiwang.org.cn/)
 - ✅ [中国社会科学网](https://link.zhihu.com/?target=http%3A//www.cssn.cn/)
+- ✅ [乌有之乡](http://www.wyzxwk.com/)
 
 ## 📚︎ 相关书籍
 

@@ -31,6 +31,7 @@
 - ✅ [旗帜网](https://link.zhihu.com/?target=http%3A//www.qizhiwang.org.cn/)
 - ✅ [中国社会科学网](https://link.zhihu.com/?target=http%3A//www.cssn.cn/)
 - ✅ [乌有之乡](http://www.wyzxwk.com/)
+- ✅ [毛泽东博览](http://www.mzdbl.cn/)：有丰富的书籍资料
 
 ## 📚︎ 相关书籍
 

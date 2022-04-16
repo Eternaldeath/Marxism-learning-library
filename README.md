@@ -32,12 +32,14 @@
 - ✅ [中国社会科学网](https://link.zhihu.com/?target=http%3A//www.cssn.cn/)
 - ✅ [乌有之乡](http://www.wyzxwk.com/)
 - ✅ [毛泽东博览](http://www.mzdbl.cn/)：有丰富的书籍资料
+- ✅ [中国共产党新闻网](http://cpc.people.com.cn/)
 
 ## 📚︎ 相关书籍
 
 - ✅ 毛选 1~5 卷：[mobi](https://link.zhihu.com/?target=https%3A//github.com/Eternaldeath/Marxism-learning-library/blob/master/book/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86_1-5%E5%8D%B7.mobi)
 - ✅ 西方哲学史：[pdf](https://link.zhihu.com/?target=https%3A//gitee.com/fromdark/marxist-learning-library/blob/master/book/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2.pdf)
 - ✅ [马克思恩格斯全集【巨著，全书共 42668 页】](https://link.zhihu.com/?target=https%3A//www.marxists.org/chinese/marx-engels/index.htm)
+- ✅ [马克思主义哲学十讲（党员干部读本）](http://theory.people.com.cn/GB/68294/374133/)
 - 毛泽东传（金冲及版）
 - 红星照耀中国（又名：西行漫记）
 - 经济思想史

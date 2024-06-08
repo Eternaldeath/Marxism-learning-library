@@ -5,6 +5,7 @@
 >- 马克思主义学习库，搜集各种马克思主义学习资源
 >- ctrl+f 可以进行全文搜索
 >- 更多资源，错误，勘误，指正欢迎通过 issue 或 morningstar1001@163.com 邮件进行联系
+>- 由于本人误操作，致本仓库中百度网盘的资料误删，已经对部分资源进行了补档，若发现有其他资源失效，可通过本人首页的邮箱或本仓库的 ISSUE 进行反馈，同时感谢已经提出反馈意见的朋友
 
 # 系统性学习建议
 
@@ -59,8 +60,8 @@
 
 ## 📹 相关视频
 
-- ✅[考研政治_徐涛](https://pan.baidu.com/s/1GxNotimP-GWaOWqz6oYcPQ#list/path=%2F)【an9v】
-- ✅[电影《决裂》赏析_乌鸦校尉](https://pan.baidu.com/s/1EGzvGvvDsABiCSuziq8DsA?pwd=3xk6) 【3xk6】
+- ✅[考研政治_徐涛_2024_强化班](https://www.youtube.com/playlist?list=PLo4DRZ9pgCGr5vrf6CTSB7Nsv83dRsqJh)【补档】
+- ✅[电影《决裂》赏析_乌鸦校尉](https://www.youtube.com/watch?v=G0kCE9Vn7tE&ab_channel=%E9%87%91%E5%87%A4%E5%87%B0ggh) 【补档】
 
 # 其他
 

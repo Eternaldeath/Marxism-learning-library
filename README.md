@@ -42,6 +42,7 @@
 - ✅ 西方哲学史：[pdf](https://link.zhihu.com/?target=https%3A//gitee.com/fromdark/marxist-learning-library/blob/master/book/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2.pdf)
 - ✅ [马克思恩格斯全集【巨著，全书共 42668 页】](https://link.zhihu.com/?target=https%3A//www.marxists.org/chinese/marx-engels/index.htm)
 - ✅ [马克思主义哲学十讲（党员干部读本）](http://theory.people.com.cn/GB/68294/374133/)
+- ✅ [毛泽东语录]([url](http://www.mzdbl.com.cn/yulu/index.html))
 - 毛泽东传（金冲及版）
 - 红星照耀中国（又名：西行漫记）
 - 经济思想史
